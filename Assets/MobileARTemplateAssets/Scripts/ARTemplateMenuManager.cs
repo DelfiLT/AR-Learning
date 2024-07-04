@@ -15,18 +15,18 @@ using UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets;
 /// </summary>
 public class ARTemplateMenuManager : MonoBehaviour
 {
-    [SerializeField]
+    /*[SerializeField]
     [Tooltip("Button that opens the create menu.")]
-    Button m_CreateButton;
+    //Button m_CreateButton;
 
     /// <summary>
     /// Button that opens the create menu.
     /// </summary>
-    public Button createButton
+    /*public Button createButton
     {
         get => m_CreateButton;
         set => m_CreateButton = value;
-    }
+    }*/
 
     [SerializeField]
     [Tooltip("Button that deletes a selected object.")]
@@ -212,7 +212,7 @@ public class ARTemplateMenuManager : MonoBehaviour
     {
         m_ScreenSpaceController.dragCurrentPositionAction.action.started += HideTapOutsideUI;
         m_ScreenSpaceController.tapStartPositionAction.action.started += HideTapOutsideUI;
-        m_CreateButton.onClick.AddListener(ShowMenu);
+        //m_CreateButton.onClick.AddListener(ShowMenu);
         m_CancelButton.onClick.AddListener(HideMenu);
         m_DeleteButton.onClick.AddListener(DeleteFocusedObject);
         m_PlaneManager.planesChanged += OnPlaneChanged;
@@ -226,7 +226,7 @@ public class ARTemplateMenuManager : MonoBehaviour
         m_ShowObjectMenu = false;
         m_ScreenSpaceController.dragCurrentPositionAction.action.started -= HideTapOutsideUI;
         m_ScreenSpaceController.tapStartPositionAction.action.started -= HideTapOutsideUI;
-        m_CreateButton.onClick.RemoveListener(ShowMenu);
+        //m_CreateButton.onClick.RemoveListener(ShowMenu);
         m_CancelButton.onClick.RemoveListener(HideMenu);
         m_DeleteButton.onClick.RemoveListener(DeleteFocusedObject);
         m_PlaneManager.planesChanged -= OnPlaneChanged;
@@ -274,7 +274,7 @@ public class ARTemplateMenuManager : MonoBehaviour
         else
         {
             m_IsPointerOverUI = false;
-            m_CreateButton.gameObject.SetActive(true);
+            //m_CreateButton.gameObject.SetActive(true);
             m_DeleteButton.gameObject.SetActive(m_InteractionGroup?.focusInteractable != null);
         }
 
@@ -425,11 +425,11 @@ public class ARTemplateMenuManager : MonoBehaviour
 
     void InitializeDebugMenuOffsets()
     {
-        if (m_CreateButton.TryGetComponent<RectTransform>(out var buttonRect))
+        /*if (m_CreateButton.TryGetComponent<RectTransform>(out var buttonRect))
             m_ObjectButtonOffset = new Vector2(0f, buttonRect.anchoredPosition.y + buttonRect.rect.height + 10f);
         else
             m_ObjectButtonOffset = new Vector2(0f, 200f);
-
+		*/
         if (m_ObjectMenu.TryGetComponent<RectTransform>(out var menuRect))
             m_ObjectMenuOffset = new Vector2(0f, menuRect.anchoredPosition.y + menuRect.rect.height + 10f);
         else

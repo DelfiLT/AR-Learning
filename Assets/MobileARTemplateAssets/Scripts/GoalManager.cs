@@ -145,7 +145,7 @@ public class GoalManager : MonoBehaviour
         set => m_OptionsButton = value;
     }
 
-    [Tooltip("The Create Button to enable once the greeting prompt is dismissed.")]
+    /*[Tooltip("The Create Button to enable once the greeting prompt is dismissed.")]
     [SerializeField]
     GameObject m_CreateButton;
 
@@ -156,7 +156,7 @@ public class GoalManager : MonoBehaviour
     {
         get => m_CreateButton;
         set => m_CreateButton = value;
-    }
+    }*/
 
     [Tooltip("The AR Template Menu Manager object to enable once the greeting prompt is dismissed.")]
     [SerializeField]
@@ -306,7 +306,7 @@ public class GoalManager : MonoBehaviour
 
         m_GreetingPrompt.SetActive(false);
         m_OptionsButton.SetActive(true);
-        m_CreateButton.SetActive(true);
+        //m_CreateButton.SetActive(true);
         m_MenuManager.enabled = true;
 
         for (int i = startingStep; i < m_StepList.Count; i++)

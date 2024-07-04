@@ -1,37 +1,462 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c87e7c-0bd9-403a-9098-35d4540682a9" name="Changes" comment="" />
+    <list default="true" id="38c87e7c-0bd9-403a-9098-35d4540682a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../3D Assets/scene.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3D Assets/scene.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARTemplateMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ARTemplateMenuManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoalManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoalManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/ImageTracking.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/ImageTracking.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/chairBeige.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/chairBeige.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/editableMaterial/basechairMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/editableMaterial/basechairMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/editableMaterial/legsChairMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/chairBeige/editableMaterial/legsChairMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/editableMaterials/baseMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/editableMaterials/baseMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/editableMaterials/woodMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/editableMaterials/woodMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/fourHorizontalbackrestChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourHorizontalbackrestChair/fourHorizontalbackrestChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/editableMaterial/baseChirMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/editableMaterial/baseChirMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/editableMaterial/woodChairMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/editableMaterial/woodChairMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/fourVerticalBackrestChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/fourVerticalBackrestChair/fourVerticalBackrestChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/curveBackChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/curveBackChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/editableMaterial/baseChairMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/editableMaterial/baseChairMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/editableMaterial/legsChairMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/redChair/editableMaterial/legsChairMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair/editableMaterial/woodChairMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair/editableMaterial/woodChairMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair/simpleChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/simpleChair/simpleChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/editableMaterial/baseChairMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/editableMaterial/baseChairMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/editableMaterial/woodChairMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/editableMaterial/woodChairMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/twoHorizontalbackrestChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/twoHorizontalbackrestChair/twoHorizontalbackrestChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/editableMaterial/baseChairMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/editableMaterial/baseChairMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/editableMaterial/woodChairMaterial.003.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/editableMaterial/woodChairMaterial.003.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/vBackrestChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/vBackRestChair/vBackrestChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/editableMaterial/baseChairMaterial.003.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/editableMaterial/baseChairMaterial.003.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/editableMaterial/woodChairMaterial.004.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/editableMaterial/woodChairMaterial.004.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/verticalBackrestChair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/chair/verticalBackrestChair/verticalBackrestChair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/Centerpiece.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/Centerpiece.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/SphereBaseMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/SphereBaseMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/candleMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/candleMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/decorBaseMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/decorBaseMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/spheresMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/spheresMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/wickMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/Centerpiece/editableMaterials/wickMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/CenterpiecePlant.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/CenterpiecePlant.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/editableMaterial/CenterpiecePlantMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/editableMaterial/CenterpiecePlantMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/editableMaterial/VaseCenterpiecePlantMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/CenterpiecePlant/editableMaterial/VaseCenterpiecePlantMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/bottles.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/bottles.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/blackPorcelainBottleMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/blackPorcelainBottleMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/greyPorcelainBottleMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/greyPorcelainBottleMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/whitePorcelainBottleMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/bottles/editableMaterial/whitePorcelainBottleMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/blackSandMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/blackSandMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/brunchMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/brunchMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/potMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/editableMaterial/potMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/vases.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/brunch/vases.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/candle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/candle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/candleBaseMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/candleBaseMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/candleMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/candleMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/wickMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candle/editableMaterials/wickMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/candlestick.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/candlestick.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/candleMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/candleMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/candlestickMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/candlestickMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/wickMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/candlestick/editableMaterial/wickMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere/editableMaterial/geodesicSphereMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere/editableMaterial/geodesicSphereMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere/goldeSphere.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/goldenSphere/goldeSphere.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/editableMaterials/napkinMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/editableMaterials/napkinMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/editableMaterials/napkinRingMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/editableMaterials/napkinRingMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/tableware.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/napkinRing/tableware.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter/editableMaterial/platterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter/editableMaterial/platterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter/platter.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/platter/platter.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot/editableMaterial/potMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot/editableMaterial/potMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot/pot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/pot/pot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/editableMaterials/metalPartMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/editableMaterials/metalPartMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/editableMaterials/saltShakerMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/editableMaterials/saltShakerMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/saltShaker.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/saltShaker/saltShaker.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware/editableMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware/editableMaterials/tablewareMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware/editableMaterials/tablewareMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware/tableware.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/tableware/tableware.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/blackTableCenterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/blackTableCenterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/greyTableCenterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/greyTableCenterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/whiteTableCenterMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/editableMaterial/whiteTableCenterMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/vases.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/decor/vases/vases.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/coneLamps.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/coneLamps.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/baseLampMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/baseLampMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/bulbMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/bulbMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/decorShadeMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/decorShadeMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/shadeMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/coneLamps/editableMaterial/shadeMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/cylinderLamps.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/cylinderLamps.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/baseLampMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/baseLampMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/bulbMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/bulbMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/shadeLampMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/cylinderLamp/editableMaterial/shadeLampMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/baseLampMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/baseLampMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/bulbMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/bulbMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/bulbProtectorMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/editableMaterial/bulbProtectorMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/wireframeLamps.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/lamps/wireframeLamps/wireframeLamps.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/bambooPot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/bambooPot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/bamboosMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/bamboosMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/darckGrassMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/darckGrassMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/grassMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/grassMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/leavesMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/leavesMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/potMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/bambooPot/editableMaterial/potMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/brachMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/brachMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/grassMaterial.003.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/grassMaterial.003.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/leavesMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/leavesMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/potMaterial.003.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/editableMaterial/potMaterial.003.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/plantPot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/plantPot/plantPot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/darckredLeavesMarerial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/darckredLeavesMarerial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/grassMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/grassMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/potMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/potMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/redLeavesMarerial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/redLeavesMarerial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/treeMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/editableMaterial/treeMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/redTree.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/plants/redTree/redTree.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable/RectangleTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable/RectangleTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable/editableMaterial/woodMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/RectangleTable/editableMaterial/woodMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/brownWoodTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/brownWoodTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/editableMaterial/brownWoodMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/editableMaterial/brownWoodMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/editableMaterial/yellowWoodTableMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/brownWoodTable/editableMaterial/yellowWoodTableMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/circleTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/circleTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/editableMaterial/baseTableMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/editableMaterial/baseTableMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/editableMaterial/legsTableMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/circleTable/editableMaterial/legsTableMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/cylinderTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/cylinderTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/editableMaterial/baseMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/editableMaterial/baseMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/editableMaterial/bodyMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/cylinderTable/editableMaterial/bodyMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable/editableMaterial/woodTableMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable/editableMaterial/woodTableMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable/joinedLegsTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/joinedLegsTable/joinedLegsTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/editableMaterial/BaseTableMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/editableMaterial/BaseTableMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/editableMaterial/legsTableMaterial.002.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/editableMaterial/legsTableMaterial.002.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/squareLegsTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareLegsTable/squareLegsTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable/editableMaterial/tableMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable/editableMaterial/tableMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable/squareTable.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/squareTable/squareTable.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/editableMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/editableMaterial/darkWoodMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/editableMaterial/darkWoodMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/editableMaterial/woodMaterial.001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/editableMaterial/woodMaterial.001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/twoRectangleLegs.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/models/tables/twoRectangleLegs/twoRectangleLegs.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/chairBeige.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/chairBeige.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/curveBackChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/curveBackChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/fourHorizontalbackrestChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/fourHorizontalbackrestChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/fourVerticalBackrestChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/fourVerticalBackrestChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/simpleChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/simpleChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/twoHorizontalbackrestChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/twoHorizontalbackrestChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/vBackrestChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/vBackrestChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/verticalBackrestChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/chair/verticalBackrestChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/Centerpiece Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/Centerpiece Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/CenterpiecePlant Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/CenterpiecePlant Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/bottles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/bottles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/candle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/candle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/candlestick.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/candlestick.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/goldeSphere.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/goldeSphere.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/platter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/platter.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/pot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/pot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/saltShaker.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/saltShaker.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/tableware 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/tableware 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/tableware.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/tableware.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/vases 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/vases 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/vases.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/decor/vases.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/coneLamps.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/coneLamps.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/cylinderLamps 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/cylinderLamps 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/wireframeLamps Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/lamp/wireframeLamps Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/bambooPot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/bambooPot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/plantPot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/plantPot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/redTree.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/plants/redTree.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/RectangleTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/RectangleTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/brownWoodTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/brownWoodTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/circleTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/circleTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/cylinderTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/cylinderTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/joinedLegsTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/joinedLegsTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/squareLegsTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/squareLegsTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/squareTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/squareTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/twoRectangleLegs.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/prefabs/table/twoRectangleLegs.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/deningRoomScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/deningRoomScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/modelsScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/modelsScene/scene.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/modelsScene/scene.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/prefabsScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/prefabsScene/scene.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/scene/scene/prefabsScene/scene.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/toTheDeveloper.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/toTheDeveloper/SmallRecommendationsAndTips.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/toTheDeveloper/SmallRecommendationsAndTips.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/toTheDeveloper/toTheDeveloper.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../diningRoom/diningRoom/toTheDeveloper/toTheDeveloper.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/GoalManager.cs" root0="SKIP_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ARTemplateMenuManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GoalManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ijxoTIEfLYnae29Ahq2mGO5Tib" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/radiumrocket30/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/radiumrocket30/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/radiumrocket30/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/radiumrocket30/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/radiumrocket30/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/radiumrocket30/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,12 +466,17 @@
       <option name="presentableId" value="Default" />
       <updated>1720017962506</updated>
       <workItem from="1720017965484" duration="12000" />
+      <workItem from="1720104646896" duration="918000" />
+      <workItem from="1720110337154" duration="46000" />
+      <workItem from="1720110387555" duration="3000" />
+      <workItem from="1720110422595" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
